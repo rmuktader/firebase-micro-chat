@@ -1,0 +1,9 @@
+{
+  "name": "js-x26dpy",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.6.10",
+    "firebase": "7.19.0"
+  }
+}
